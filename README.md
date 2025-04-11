@@ -63,8 +63,10 @@ flappybirdbg.png (background)
 toppipe.png, bottompipe.png (pipes)
 
 📷 Screenshots
-Gameplay	Game Over
-<img src="resources/flappybird.png" width="150"/>	<img src="resources/toppipe.png" width="150"/>
+Gameplay                                                                                                      	Game Over
+![flappy](https://github.com/user-attachments/assets/5778f423-8601-4ea9-a91c-e4f14cd42711)  ![gameover](https://github.com/user-attachments/assets/3e83831c-a5c7-450f-8d19-852d7faa67c8)
+
+	
 🙌 Author
 Made with ❤️ by Surendra Singh Chouhan
 
