@@ -63,9 +63,8 @@ flappybirdbg.png (background)
 toppipe.png, bottompipe.png (pipes)
 
 📷 Screenshots
-Gameplay                                                                                                      	Game Over
-![flappy](https://github.com/user-attachments/assets/278c2f9d-0d8a-4d8d-9940-5b9f96e10179)  ![gameover](https://github.com/user-attachments/assets/ab237990-ea2a-46de-a5d7-bc8718a61cb2)
-
+Gameplay                                                                                                      
+![flappy](https://github.com/user-attachments/assets/278c2f9d-0d8a-4d8d-9940-5b9f96e10179) 
 
 
 	
