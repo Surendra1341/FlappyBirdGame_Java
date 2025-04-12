@@ -15,7 +15,7 @@
 ## 🎮 Game Preview
 
 <p align="center">
- ![flappy](https://github.com/user-attachments/assets/780db90e-8806-4398-976c-79af3d55efa9)
+<img src="resources/flappy.png" alt="Image" width="300"/>
 </p>
 
 
