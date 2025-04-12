@@ -14,11 +14,7 @@
 
 ## 🎮 Game Preview
 
-<p align="center">
-  <img src="resources/flappybird-preview.gif" width="300" alt="Game Preview GIF"/>
-</p>
-
-> *Add a .gif or screenshot in your `resources/` folder and rename it to `flappybird-preview.gif`.*
+![flappy](https://github.com/user-attachments/assets/780db90e-8806-4398-976c-79af3d55efa9)
 
 ---
 
@@ -61,11 +57,6 @@ flappybird.png (bird)
 flappybirdbg.png (background)
 
 toppipe.png, bottompipe.png (pipes)
-
-📷 Screenshots
-Gameplay                                                                                                      
-![flappy](https://github.com/user-attachments/assets/278c2f9d-0d8a-4d8d-9940-5b9f96e10179) 
-
 
 	
 🙌 Author
